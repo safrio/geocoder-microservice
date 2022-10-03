@@ -1,0 +1,5 @@
+ru:
+  services:
+    geocoder:
+      coordinates_by_city_service:
+        not_found: 'Город не найден'
